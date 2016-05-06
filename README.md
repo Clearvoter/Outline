@@ -1,4 +1,4 @@
-Outline
+Clearvoter Project
 =======
 
-Blockchain based voting platform
+A community-based civic social network that integrates a blockchain-based voting system.
