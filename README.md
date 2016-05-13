@@ -1,4 +1,4 @@
-Outline
+Clearvoter
 =======
 
-Blockchain based voting platform
+Civic Action Network
